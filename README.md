@@ -1,16 +1,23 @@
-# marocapp
+# TRAVELl_GUIADE_Project
 
-A new Flutter project.
+## MarocApp (Flutter)
+
+MarocApp is a Flutter-based travel guide application designed to help users explore destinations, discover places, and plan trips easily.
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK
+- Dart
+- Android Studio / VS Code
+- Emulator or physical device
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Run the project
+```bash
+flutter pub get
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
